@@ -17,6 +17,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  text-align: justify;
 }
 
 hr {
@@ -331,6 +332,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  text-align: center;
 
   .container {
     color: var(--global-footer-text-color);
@@ -353,6 +355,7 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  text-align: center;
 }
 
 // CV
