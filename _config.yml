@@ -173,6 +173,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  hobbies:
+    output: true
+    permalink: /hobbies/:path/
 
 announcements:
   enabled: true

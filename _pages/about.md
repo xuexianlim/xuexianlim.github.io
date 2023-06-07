@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: 
 
@@ -20,7 +20,7 @@ Hello! I warmly welcome you to my pasture.🌱
 <br><br>
 This is where I keep my reflections and ruminations about some of the fascinating stuff that I have explored throughout the past few years since I left junior college.
 <br><br>
-Feel free to graze on the projects that I've done at university. (I studied Mechanical Engineering at Imperial College London and am currently broadening my knowledge in Robotics, Systems and Control at ETH Zürich.)
+Go ahead and graze on the projects that I've done at university. (I studied Mechanical Engineering at Imperial College London and am currently broadening my knowledge in Robotics, Systems and Control at ETH Zürich.)
 <br><br>
 Or perhaps the grass looks greener to you on the other side, in which case you should check out the hobbies that have made (and are still making) my life a lot more fun!
 </p>
