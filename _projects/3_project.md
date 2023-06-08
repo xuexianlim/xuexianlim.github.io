@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Ball Balancing Robot
+description: 
+img: assets/img/2.jpg
 importance: 3
 # category: work
 ---

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Planning and Decision Making for Autonomous Robots
-description: 
-img: assets/img/PDM4AR_2.jpg
+title: Military Service
+description: Not a hobby but it wasn't an academic project either so I put it here 🤷‍♂️
+img: assets/img/FWC.jpg
 importance: 1
 # category: work
 ---

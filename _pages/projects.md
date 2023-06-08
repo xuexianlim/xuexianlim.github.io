@@ -56,3 +56,8 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+<p style="text-align: justify">
+<br>
+As much as I would love to openly share the code for these projects, I am expressedly not allowed to upload the code for these modules as they could be referenced by future batches of students working on the same assignments. Some of these codebases are even proprietary and belong to the respective research labs and I have no right to share these. Feel free to contact me if you have any queries regarding the detailed implementation for any of the projects.
+</p>

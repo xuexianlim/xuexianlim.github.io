@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Mine Navigation Search and Rescue
+description: 
 img:
-importance: 3
+importance: 4
 # category: fun
 ---
 
