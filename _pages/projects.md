@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of projects that I think are pretty cool / am proud of.
 nav: true
 nav_order: 2
-display_categories: #[work, fun]
+display_categories: ["ETH Zürich", "Imperial College London"]
 horizontal: false
 ---
 
