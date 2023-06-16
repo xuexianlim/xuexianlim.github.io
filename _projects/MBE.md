@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Management and Business for Engineers Video Assignment
+title: Video Assignment for Management and Business for Engineers
 description: 
 img: assets/img/MBE.jpg
-importance: 5
+importance: 6
 category: "Imperial College London"
 ---
 <p style="text-align: justify">
