@@ -30,7 +30,7 @@ It remains one of the toughest things I ever did in my life. Military flying is 
 
 <div class="row justify-content-center">
     <div class="col-">
-        {% include figure.html path="assets/img/wings.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Wings.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
