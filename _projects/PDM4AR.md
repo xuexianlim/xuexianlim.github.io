@@ -43,7 +43,7 @@ Exercise 2 extended this with informed graph searches (uniform cost search, A* s
 In Exercise 3, I implemented value and policy iteration to solve a particular Markov Decision Process (MDP). In this MDP, there was a robot that tried to cross grass (green) and swamp (blue) tiles to reach a goal cell. Due to fog, the robot had a certain probability of going towards its desired direction or accidentally heading off in the other three cardinal directions or even getting stuck in its current location. The stage cost to be minimised was time taken (swamps took more time naturally). While the robot could not intentionally choose to exit the map boundaries, it could still inadvertently do so due to the finite transition probabilities of going off in a direction other than its chosen one. When this happened, it was considered as lost and a new one would then be parachuted into the start cell. In large maps, this led to a peculiar but entirely logical phenomenon. For faraway sectors, the robot's optimal policy was to move towards the edge of the map and hug the edge in the hopes that the it would get lost and be replaced with a new one that could immediately resume from the start cell which was closer to the goal cell. This was to be expected since no cost was imposed on replacing a lost robot and effectively, it was as if the robot could teleport to the start cell by exiting the map boundaries. This highlights the importance of modelling choices and assumptions.
 </p>
 
-> "All models are wrong, but some are useful." - George Box, 1976
+> "All models are wrong, but some are useful." - George Box
 
 <p style="text-align: justify">
 At the end of the day, models are simply approximations and their utility depends on how well the assumptions reflect the actual processes. If indeed I just so happened to have infinite robots (and parachutes) and hence, could afford to aidrop endless waves of innocent robots at no cost, then this model would be entirely valid and would accurately reflect the directional choices that any robot should make.
@@ -112,7 +112,7 @@ This was one of the harder exercises that required some thinking out of the box 
 
 $$\sum_{a=1}^{N-1}\left|x_{a+1,\text{ }i_{a+1}}-x_{a,\text{ }i_{a}}\right|+\left|y_{a+1,\text{ }i_{a+1}}-y_{a,\text{ }i_{a}}\right|$$
 
-$$i_{a}\in \mathbb{Z}:i\in \left[1,n\right]$$
+$$i_{a}\in\mathbb{Z}:i\in\left[1,n\right]$$
 
 <p style="text-align: justify">
 One method of resolving this was to use the following simple identity.
