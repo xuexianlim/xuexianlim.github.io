@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Miniature Motorised Car
-description: 
+description: Design and Manufacture
 img: assets/img/DMT.jpg
-importance: 6
+importance: 7
 category: "Imperial College London"
 ---
 <p style="text-align: justify">
@@ -28,7 +28,7 @@ The goal of this project was to design and build a miniature motorised car to ra
   <li>The total budget was £600 and the allocated workshop time was 12 hours.</li>
 </ul>
 <p style="text-align: justify">
-The project was overall a rather fun one. Our car did not win the race but I wasn't too bothered by that. I was more impressed that we were able to accurately predict the race time of the car within half of a second. We used our dynamics and mechatronics knowledge to formulate a differential equation that modelled the position, velocity and acceleration of the car using the torque-speed characteristics of the motor, estimates of trasmission efficiency and estimates of the car's mass. It was really cool seeing how we could apply the things we learnt in other modules to an actual mechanical design project like this. Incidentally, this differential equation was a first-order linear differential equation which we had literally just learnt to solve in our Mathematics and Computing module (using separation of variables or using an integrating factor).
+The project was overall a rather enjoyable one. Our car did not win the race but I wasn't too bothered by that. I was more impressed that we were able to accurately predict the race time of the car within half of a second. We used our dynamics and mechatronics knowledge to formulate a differential equation that modelled the position, velocity and acceleration of the car using the torque-speed characteristics of the motor, estimates of trasmission efficiency and estimates of the car's mass. It was really cool seeing how we could apply the things we learnt in other modules to an actual mechanical design project like this. Incidentally, this differential equation was a first-order linear differential equation which we had literally just learnt to solve in our Mathematics and Computing module (using separation of variables or using an integrating factor). On hindsight, I realised that the differential equation that we formulated neglected the rotational inertia of the wheels. However, this rotational inertia was likely not as significant as the car's mass and hence, the equation remained decently accurate in modelling the kinematics of the car.
 <br><br>
 A PDF of the final report can be found <a href="{{ 'DMT.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">here <i class="fas fa-file-pdf"></i></a>.
 </p>

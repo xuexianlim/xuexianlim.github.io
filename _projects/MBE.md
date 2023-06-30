@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Video Assignment for Management and Business for Engineers
-description: 
+title: Anchoring Bias Video Assignment
+description: Management and Business for Engineers
 img: assets/img/MBE.jpg
-importance: 7
+importance: 8
 category: "Imperial College London"
 ---
 <p style="text-align: justify">

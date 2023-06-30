@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mine Navigation Search and Rescue
-description: 
+description: Embedded C for Microcontrollers
 img: assets/img/ECM_Buggy.jpg
 importance: 4
 category: "Imperial College London"

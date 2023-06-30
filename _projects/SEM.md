@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Steering System for Shell Eco-Marathon
-description: 
+title: Steering System Team
+description: Imperial Racing Green
 img: assets/img/SEM_Car.jpg
 importance: 5
 category: "Imperial College London"
