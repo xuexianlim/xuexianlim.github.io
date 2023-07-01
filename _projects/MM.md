@@ -15,6 +15,8 @@ This project was my team's capstone project for the Digital Humans course. To be
 <br><br>
 Before I get into the project proper, I just want to say that this team was probably the best team that I ever worked with for any project. The other members were friendly, helpful, professional, accommodating and hardworking. We adhered strictly to our Gantt chart schedule and so the project had no hiccups and was basically smooth sailing all the way. We had very good version control practices in Git so even though there were new branches and pull requests all the time, the main branch remained very clean. It was pure bliss.
 <br><br>
+A PDF of the final report can be found <a href="{{ 'MM.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">here <i class="fas fa-file-pdf"></i></a>.
+<br><br>
 </p>
 
 <p style="text-align: justify">
