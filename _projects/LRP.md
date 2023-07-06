@@ -13,5 +13,5 @@ My supervisor was a Professor in Biomechatronics and he initially proposed a rev
 <br><br>
 The review was limited to 30 pages so I had to be extremely concise with my explanations. A PDF of the final review can be found <a href="{{ 'LRP.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">here <i class="fas fa-file-pdf"></i></a>. The biggest takeaway from this project is that we should be very critical with everything we read. Fancy figures and technical jargon are by no means a proxy for a well-conducted study. Some things appear really glossy on the surface but when held up to close scrutiny, the cracks start becoming apparent.
 <br><br>
-As a random aside, the display image for this project was updated post factum when I attended the open day for the Robotics Systems Lab at ETH Zürich. I saw the <a href="https://www.aldebaran.com/en/pepper">Pepper robot</a> and recognised it as one of the robots in some of the reviewed studies.
+As a random aside, the display image for this project was updated post factum when I attended the open day for the Robotics Systems Lab at ETH Zürich. I saw the <a href="https://www.aldebaran.com/en/pepper">Pepper</a> robot and recognised it as one of the robots in some of the reviewed studies.
 </p>
